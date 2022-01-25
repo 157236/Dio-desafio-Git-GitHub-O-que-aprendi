@@ -9,11 +9,11 @@ e GitHub.
  um projeto inicial e que o mesmo teve de passar por diferentes setores dentro de uma empresa.
  Como este arquivo receberá feedbacks de toda a equipe envolvida, então o mesmo terá sido modificado
  varias vezes até se tornar como concluido. A diferença do arquivo incial para o arquivo final será 
- tamanha e como Git você pode ter controle e acesso a todo o processo das versões deste documento.
+ tamanha e com o Git você poderá ter controle e acesso a todo o processo das versões deste documento.
 
 ## E o que é o GitHub? ##
 O GitHub é uma pataforma que permite que varios outros desenvolvedores e empresas compartilhem 
-arquivos e códigos criados no Git mantendo o arquivo original criado pelo Git.
+arquivos e códigos criados no Git mantendo o arquivo original criado icialmente.
 
  
 

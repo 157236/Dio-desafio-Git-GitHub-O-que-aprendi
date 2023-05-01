@@ -1,5 +1,5 @@
 # Dio-desafio-Git-GitHub-O-que-aprendi #
- Olá Devs, aqui está tudo que aprendi neste Bootcamp do Bancno Inter pela Dio sobre Git
+ Olá Devs, aqui está tudo que aprendi neste Bootcamp pela Dio sobre Git
 e GitHub.
 
 ## O que é Git e GitHub ? ##
